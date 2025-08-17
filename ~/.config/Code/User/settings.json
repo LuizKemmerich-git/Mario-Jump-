@@ -1,0 +1,29 @@
+{
+  // Fonte confiável para programação
+  "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 14,
+
+  // Cursor em linha fina e piscando
+  "editor.cursorStyle": "line",
+  "editor.cursorBlinking": "blink",
+
+  // Não mostrar espaços/tab invisíveis
+  "editor.renderWhitespace": "none",
+  "editor.renderControlCharacters": false,
+
+  // Desativar sugestões automáticas enquanto digita
+  "editor.quickSuggestions": {
+    "other": false,
+    "comments": false,
+    "strings": false
+  },
+  "editor.suggestOnTriggerCharacters": false,
+
+  // Destaque da linha atual
+  "editor.renderLineHighlight": "all",
+
+  // Tema escuro confortável
+  "workbench.colorTheme": "Default Dark+"
+}
+
